@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\bin\Debug\keyLogger.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\bin\Debug\keyLogger.exe
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\bin\Debug\keyLogger.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\obj\Debug\keyLogger.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\obj\Debug\keyLogger.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\obj\Debug\keyLogger.exe
+C:\Users\Dell\Documents\Visual Studio 2017\keyLogger\keyLogger\obj\Debug\keyLogger.pdb
